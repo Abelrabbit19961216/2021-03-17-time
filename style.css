@@ -1,0 +1,23 @@
+@charset "UTF-8";
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 微軟正黑體;
+}
+
+body {
+  background: -webkit-gradient(linear, left top, right top, from(#344b60), to(#dddccd));
+  background: linear-gradient(90deg, #344b60, #dddccd);
+  height: 100vh;
+}
+
+#clock {
+  font-size: 120px;
+  color: #f77519;
+  text-align: center;
+  margin: 0 auto;
+  text-shadow: 0 0 10px rgba(167, 68, 2, 0.562);
+  height: 100hv;
+  line-height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */
