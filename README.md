@@ -7,7 +7,8 @@ https://abelrabbit19961216.github.io/2021-03-17-time/
 # CDN
 
 ```
-
+<script src="https://unpkg.com/vue@next"></script>
+<script src="./main.js"></script>
 ```
 
 # 說明
